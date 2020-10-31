@@ -1,0 +1,31 @@
+<style>
+    p.cume {
+        border-style: ridge;
+        /* height: 50px; */
+    }
+    p.largura {
+        border-style: solid;
+        border-width: 1px 4px 8px  12px ;
+    }
+    div.individual {
+        border: 1px solid rgb(5, 182, 206);
+        margin-top: 95px;
+        margin-right: 145px;
+        margin-bottom: 115px;
+        margin-left: 70px;
+    }
+    div.automatico {
+        width: 300px;
+        margin: auto;
+        border: 2px solid rgb(192, 50, 50);
+    }
+    div.exe {
+        border: 2px solid rgb(64, 50, 192);
+        background-color: lightblue;
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+        margin: 50px;
+    }
+</style>
